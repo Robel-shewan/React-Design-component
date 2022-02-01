@@ -24,5 +24,4 @@ This project we are Design for the purpose of software component design seminar 
   - register movie 
   - sort movie 
   - fliter movie  based on Genre 
-All the above implementation we are prepared by using design patterns 
 
