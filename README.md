@@ -1,6 +1,6 @@
 #React Design Patterns 
 
-This project Design for the purpose of software component design seminar Project , and this projects show different types of design patterns.
+This project we are Design for the purpose of software component design seminar Project , and this projects show different types of design patterns.
 
 
 
